@@ -203,3 +203,7 @@ The output should in Code Block
 > 2. Explain your new function to me like I'm 5, use English mnemonics and other learning technique to aid my human memory for better understanding. Using distributional semantics, bold all important words in your explanation text.
 > 
 > Code: `[your code here]`
+
+## 16. Top 10 interview questions and answers
+
+> Top 10 Interview Question of `[skill name]` and their answers in English.
