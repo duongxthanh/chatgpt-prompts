@@ -21,9 +21,17 @@
   </p>
 </div>
 
-# About The Project
+## About The Project
 
 A collection of prompts for ChatGPT, organized by topic. Browse through the categories and topics below to find prompts that interest you.
+
+## Contributors
+
+I wanted to take a moment to express my sincere gratitude for all of the hard work and dedication you've put into our GitHub repository. Your contributions have helped to make this project a success, and I truly appreciate all of the time and effort you've put into it.
+
+<a href="https://github.com/duongxthanh/chatgpt-prompts">
+  <img src="https://contrib.rocks/image?repo=duongxthanh/chatgpt-prompts" />
+</a>
 
 ## Table of Contents
 
@@ -110,3 +118,4 @@ Duong Xuan Thanh - thanhdxemail@gmail.com
 ## Acknowledgments
 
 * [How to write the perfect ChatGPT prompt and become a ChatGPT expert](https://writesonic.com/blog/how-to-write-chatgpt-prompts/)
+
