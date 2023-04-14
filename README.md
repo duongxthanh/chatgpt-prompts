@@ -42,7 +42,7 @@ A collection of prompts for ChatGPT, organized by topic. Browse through the cate
 
 ## Software Development
 
-### Backend Development (15 prompts)
+### Backend Development (16 prompts)
 Backend development focuses on server-side programming, database management, and the underlying logic of a software application. Browse [prompts](software_development/backend_developer/prompts.md) and explore [tips and tricks](software_development/backend_developer/tips_and_tricks.md) for backend development.
 
 ### Frontend Development (10 prompts)
