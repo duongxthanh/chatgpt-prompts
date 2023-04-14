@@ -73,7 +73,7 @@ Marketing encompasses strategies and tactics used to promote products and servic
 ### Poetry (coming soon)
 Poetry is an expressive form of literature that uses rhythm, imagery, and figurative language to convey emotions and ideas. Browse [prompts](content_creation/poet/prompts.md) and explore [tips and tricks](content_creation/poet/tips_and_tricks.md) for poetry.
 
-### Search Engine Optimization (SEO) (coming soon)
+### Search Engine Optimization (SEO) (01 prompts)
 Search Engine Optimization (SEO) involves optimizing websites and content to improve search engine rankings and visibility. Browse [prompts](content_creation/seo/prompts.md) and explore [tips and tricks](content_creation/seo/tips_and_tricks.md) for SEO.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
