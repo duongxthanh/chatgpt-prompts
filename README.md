@@ -42,38 +42,38 @@ A collection of prompts for ChatGPT, organized by topic. Browse through the cate
 
 ## Software Development
 
-### Backend Development
+### Backend Development (15 prompts)
 Backend development focuses on server-side programming, database management, and the underlying logic of a software application. Browse [prompts](software_development/backend_developer/prompts.md) and explore [tips and tricks](software_development/backend_developer/tips_and_tricks.md) for backend development.
 
-### Frontend Development
+### Frontend Development (10 prompts)
 Frontend development deals with the visual aspects and user interfaces of web applications. Browse [prompts](software_development/frontend_developer/prompts.md) and explore [tips and tricks](software_development/frontend_developer/tips_and_tricks.md) for frontend development.
 
-### DevOps
+### DevOps (coming soon)
 DevOps is the practice of combining software development and IT operations to streamline the software delivery process. Browse [prompts](software_development/devops/prompts.md) and explore [tips and tricks](software_development/devops/tips_and_tricks.md) for DevOps.
 
-### Project Management
+### Project Management (coming soon)
 Project management involves planning, organizing, and overseeing software development projects. Browse [prompts](software_development/project_manager/prompts.md) and explore [tips and tricks](software_development/project_manager/tips_and_tricks.md) for project management.
 
-### Software Quality Assurance
+### Software Quality Assurance (coming soon)
 Software Quality Assurance (SQA) aims to ensure the quality of software products through testing and other verification processes. Browse [prompts](software_development/software_quality_assurance/prompts.md) and explore [tips and tricks](software_development/software_quality_assurance/tips_and_tricks.md) for SQA.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Content Creation
 
-### Copywriting
+### Copywriting (coming soon)
 Copywriting involves crafting compelling and persuasive written content for various media formats. Browse [prompts](content_creation/copywriting/prompts.md) and explore [tips and tricks](content_creation/copywriting/tips_and_tricks.md) for copywriting.
 
-### Video Production
+### Video Production (coming soon)
 Video production covers the process of creating video content, from pre-production planning to post-production editing. Browse [prompts](content_creation/video_creator/prompts.md) and explore [tips and tricks](content_creation/video_creator/tips_and_tricks.md) for video production.
 
-### Marketing
+### Marketing (coming soon)
 Marketing encompasses strategies and tactics used to promote products and services, build brand awareness, and drive sales. Browse [prompts](content_creation/marketing/prompts.md) and explore [tips and tricks](content_creation/marketing/tips_and_tricks.md) for marketing.
 
-### Poetry
+### Poetry (coming soon)
 Poetry is an expressive form of literature that uses rhythm, imagery, and figurative language to convey emotions and ideas. Browse [prompts](content_creation/poet/prompts.md) and explore [tips and tricks](content_creation/poet/tips_and_tricks.md) for poetry.
 
-### Search Engine Optimization (SEO)
+### Search Engine Optimization (SEO) (coming soon)
 Search Engine Optimization (SEO) involves optimizing websites and content to improve search engine rankings and visibility. Browse [prompts](content_creation/seo/prompts.md) and explore [tips and tricks](content_creation/seo/tips_and_tricks.md) for SEO.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -86,11 +86,10 @@ If you have a suggestion that would make this better, please fork the repo and c
 simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
 
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+1. Create your Feature Branch (`git checkout -b feature/<topic_name>_<prompt_name>`)
+2. Commit your Changes (`git commit -m '[Topic_name] prompt introduce'`)
+3. Push to the Branch (`git push origin feature/<topic_name>_<prompt_name>`)
+4. Open a pull request to main branch
 
 <!-- LICENSE -->
 
