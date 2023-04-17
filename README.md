@@ -69,7 +69,7 @@ Software Quality Assurance (SQA) aims to ensure the quality of software products
 
 ## Content Creation
 
-### Copywriting (coming soon)
+### Copywriting (01 prompts)
 Copywriting involves crafting compelling and persuasive written content for various media formats. Browse [prompts](content_creation/copywriting/prompts.md) and explore [tips and tricks](content_creation/copywriting/tips_and_tricks.md) for copywriting.
 
 ### Video Production (coming soon)
